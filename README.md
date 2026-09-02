@@ -1,9 +1,9 @@
-Team Project Name
-**Team Number:** 202
-**Semester and Year:** Fall of 2026
-**Course:** EGR 304 - Embedded System Design
-**University:** Arizona State University
-**Preparation Date:** September 2, 2026
+Team Project Name  
+**Team Number:** 202  
+**Semester and Year:** Fall of 2026  
+**Course:** EGR 304 - Embedded System Design  
+**University:** Arizona State University  
+**Preparation Date:** September 2, 2026  
 This is a template to help you get started with the team's GitHub Report. Use this template to help guide your team through the initial setup process.
 
 You will need to add additional files per team assignment.
