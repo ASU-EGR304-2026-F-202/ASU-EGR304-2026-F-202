@@ -1,3 +1,9 @@
+Team Project Name
+**Team Number:** 202
+**Semester and Year:** Fall of 2026
+**Course:** EGR 304 - Embedded System Design
+**University:** Arizona State University
+**Preparation Date:** September 2, 2026
 This is a template to help you get started with the team's GitHub Report. Use this template to help guide your team through the initial setup process.
 
 You will need to add additional files per team assignment.
@@ -13,4 +19,3 @@ Either on your computer or on the GitHub website,
 1 Stage, commit, and push your files.
 1. Check the "actions" tab (found in your repository's main GitHub page) to see that your commit is triggering the **"mkdocs-build"** action.
 A video detailing the steps to check your build process can be viewed [here.](https://www.youtube.com/watch?v=8EgFkG2HHxM/) 
-**Team Number:** 202
