@@ -33,7 +33,7 @@ This mission statement defines the distilled purpose of our physical device. Our
 | Name | Phone | Discord(optional) | Email |
 | :--- | :--- | :--- | :--- |
 | **Branden Cluff** | (602)802-9533 | tbhappycow4052 | Lee35145@gmail.com |
-| **Brendan L** | (425)677-5762 | Discord | Email |
+| **Brendan L** | (425)677-5762 | nellonelloy | b.laskowsski@me.com |
 | **Sidra Elsaady** | (602)413-3300 | Discord | Email |
 | **Zander Boward** | (610)420-7076 | Discord | Email |
 
@@ -63,7 +63,7 @@ This mission statement defines the distilled purpose of our physical device. Our
 | **Meeting Leader** | Branden Cluff | Schedules meetings, creates agendas, and runs discussions |
 | **Meeting Recorder** | TBD | Tracks minutes, attendance, and logs action items |
 | **Assignment Leader** | TBD | Coordinates final assignment assembly and Canvas submissions |
-| **Project Monitor** | TBD | Tracks progress relative to the project schedule and Gantt chart |
+| **Project Monitor** | Brendan Laskowski | Tracks progress relative to the project schedule and Gantt chart |
 
 * **Technical Task Allocation:** responsibilities (firmware, PCB capture, hardware testing) will be assigned based on individual skill goals and reviewed during weekly meetings.
 
@@ -83,6 +83,6 @@ This mission statement defines the distilled purpose of our physical device. Our
 *Team Number: 202*
 
 * **Member 1:** *[Branden Cluff]*
-* **Member 2:** *[Name / Electronic Signature]*
+* **Member 2:** *[Brendan Laskowski]*
 * **Member 3:** *[Name / Electronic Signature]*
 * **Member 4:** *[Name / Electronic Signature]*
