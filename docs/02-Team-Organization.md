@@ -60,7 +60,7 @@ This mission statement defines the distilled purpose of our physical device. Our
 
 | Role | Assigned Member | Primary Duties |
 | :--- | :--- | :--- |
-| **Meeting Leader** | TBD | Schedules meetings, creates agendas, and runs discussions |
+| **Meeting Leader** | Branden Cluff | Schedules meetings, creates agendas, and runs discussions |
 | **Meeting Recorder** | TBD | Tracks minutes, attendance, and logs action items |
 | **Assignment Leader** | TBD | Coordinates final assignment assembly and Canvas submissions |
 | **Project Monitor** | TBD | Tracks progress relative to the project schedule and Gantt chart |
@@ -82,7 +82,7 @@ This mission statement defines the distilled purpose of our physical device. Our
 
 *Team Number: 202*
 
-* **Member 1:** *[Name / Electronic Signature]*
+* **Member 1:** *[Branden Cluff]*
 * **Member 2:** *[Name / Electronic Signature]*
 * **Member 3:** *[Name / Electronic Signature]*
 * **Member 4:** *[Name / Electronic Signature]*
