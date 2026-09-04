@@ -4,7 +4,7 @@ repo_url: https://github.com/ASU-EGR304-2026-F-202/ASU-EGR304-2026-F-202
 edit_uri: edit/main/docs/
 nav:
   - Home: index.md
-  - Team Organization: Team-Organization.md
+  - Team Organization: 02-Team-Organization.md
   - Appendix: appendix.md
 theme:
   name: material
