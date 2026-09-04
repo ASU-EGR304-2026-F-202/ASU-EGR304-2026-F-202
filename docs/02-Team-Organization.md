@@ -35,7 +35,7 @@ This mission statement defines the distilled purpose of our physical device. Our
 | **Branden Cluff** | (602)802-9533 | tbhappycow4052 | Lee35145@gmail.com |
 | **Brendan L** | (425)677-5762 | nellonelloy | b.laskowsski@me.com |
 | **Sidra Elsaady** | (602)413-3300 | Discord | Email |
-| **Zander Boward** | (610)420-7076 | Discord | Email |
+| **Zander Boward** | (610)420-7076 | zanderboward_38427 | aboward@asu.edu |
 
 ### Communication Procedures
 
@@ -85,4 +85,4 @@ This mission statement defines the distilled purpose of our physical device. Our
 * **Member 1:** *[Branden Cluff]*
 * **Member 2:** *[Brendan Laskowski]*
 * **Member 3:** *[Name / Electronic Signature]*
-* **Member 4:** *[Name / Electronic Signature]*
+* **Member 4:** *[Zander Boward]*
