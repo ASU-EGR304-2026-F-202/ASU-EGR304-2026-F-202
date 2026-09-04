@@ -11,8 +11,8 @@ From our initial team discussions, our team charter formed to be:
 > "Our team is committed to collaboratively designing a high-quality embedded system through disciplined engineering practices, equal accountability, and transparent communication, ensuring every team member achieves mastery and professional growth."
 ### Shared Team Goals
 
-1. **Portfolio-Grade System Design:** Engineer a fully functional embedded product with clean hardware-software integration.
-2. **Version Control Integrity:** Maintain an organized GitHub repository throughout the semester.
+1. **System Design:** Engineer a fully functional embedded product with clean hardware-software integration.
+2. **Github Control:** Maintain an organized GitHub repository throughout the semester.
 3. **Firmware & Hardware Proficiency:** Develop practical mastery over low-level microcontroller programming, configuration, and circuit schematic capture.
 4. **Schedule Discipline:** Complete and review all assignment deliverables at least 24 hours before class deadlines.
 5. **Transparent Collaboration:** Foster an equitable team dynamic with open communication, equal workload distribution, and active peer support.
@@ -40,7 +40,7 @@ This mission statement defines the distilled purpose of our physical device. Our
 ### Communication Procedures
 
 * **Primary Channel:** Messaging in a group chat will be used for any updates, technical discussions, and sharing code/schematics.
-* **Synchronous Communication:** Quick clarification calls will take place with phone calls or on Discord.
+* **Quick Communication:** Quick clarification calls will take place with phone calls or on Discord.
 * **Instructor Correspondence:** One designated team member will handle email correspondence with the course instructor and relay updates to the team in the group chat or through Discord.
 
 ---
@@ -74,7 +74,7 @@ This mission statement defines the distilled purpose of our physical device. Our
 * **Assignment Sign-off:** Every deliverable must be reviewed and approved by all team members before final submission.
 * **Addressing Missed Commitments:** If a team member misses a task deadline, an informal check-in will occur within 24 hours to reassess workload distribution.
 * **Under-performance Protocol:** Continued unexcused missed contributions will result in a formal team discussion, followed by instructor notification if performance does not improve.
-* **Conflict Resolution:** Will happen with discussion. the conflict is decided on majority rules. if there is no majority decision then ask a third party, like the professor.
+* **Conflict Resolution:** Will happen with discussion, the conflict is decided on majority rules. if there is no majority decision then the team can ask a third party, a good example is the professor.
 
 ---
 
