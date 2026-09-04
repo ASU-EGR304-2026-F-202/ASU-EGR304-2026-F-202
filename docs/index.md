@@ -6,12 +6,12 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br> 
+<font size="5">Team 202<br> 
 **Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+Fall 2026r<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Professor Nicholsbr>
   
 
 </center>
@@ -26,7 +26,7 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Name #2                | link |
-| Name #3                | link |
-| Name #4                | link |
+| Branden Cluff                | [blcluff1-alt]([https://embedded-systems-design.github.io/EGR304DataSheetTemplate/](https://blcluff1-alt.github.io/EGR304-BrandenCluff-DataSheet/)) |
+| Brendan L               | link |
+| Sidra Elsaady               | link |
+| Zander Boward              | link |
