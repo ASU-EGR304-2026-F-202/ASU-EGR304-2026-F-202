@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
+<font size="8">Embedded System Design<br>
 <font size="5">Team 202<br> 
 **Submission: month, DD, YYYY**<br>
-Fall 2026r<br>
+Fall 2026 <br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Nicholsbr>
+Professor Nichols<br>
   
 
 </center>
