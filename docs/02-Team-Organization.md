@@ -61,7 +61,7 @@ This mission statement defines the distilled purpose of our physical device. Our
 | Role | Assigned Member | Primary Duties |
 | :--- | :--- | :--- |
 | **Meeting Leader** | Branden Cluff | Schedules meetings, creates agendas, and runs discussions |
-| **Meeting Recorder** | TBD | Tracks minutes, attendance, and logs action items |
+| **Meeting Recorder** | Zander Boward | Tracks minutes, attendance, and logs action items |
 | **Assignment Leader** | TBD | Coordinates final assignment assembly and Canvas submissions |
 | **Project Monitor** | Brendan Laskowski | Tracks progress relative to the project schedule and Gantt chart |
 
