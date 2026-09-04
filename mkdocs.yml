@@ -1,7 +1,11 @@
-site_name: EGR304 Team Report Template
-site_url: https://embedded-systems-design.github.io/EGR304TeamTemplate
-repo_url: https://github.com/embedded-systems-design/EGR304TeamTemplate
+site_name: ASU-EGR304-2026-F-202
+site_url: https://asu-egr304-2026-f-202.github.io/ASU-EGR304-2026-F-202/
+repo_url: https://github.com/ASU-EGR304-2026-F-202/ASU-EGR304-2026-F-202
 edit_uri: edit/main/docs/
+nav:
+  - Home: index.md
+  - Team Organization: Team-Organization.md
+  - Appendix: appendix.md
 theme:
   name: material
   custom_dir: custom_theme/
