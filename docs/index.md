@@ -29,4 +29,4 @@ Professor Nichols<br>
 | Branden Cluff                | [blcluff1-alt]([https://embedded-systems-design.github.io/EGR304DataSheetTemplate/](https://blcluff1-alt.github.io/EGR304-BrandenCluff-DataSheet/)) |
 | Brendan L               | [Nellonelloy]([https://nellonelloy.github.io/Nellonelloy_EGR304Fall26.github.io/]) |
 | Sidra Elsaady               | link |
-| Zander Boward              | link |
+| Zander Boward              | [aboward-cloud](https://aboward-cloud.github.io/) |
