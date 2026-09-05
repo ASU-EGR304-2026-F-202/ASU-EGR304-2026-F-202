@@ -34,7 +34,7 @@ This mission statement defines the distilled purpose of our physical device. Our
 | :--- | :--- | :--- | :--- |
 | **Branden Cluff** | (602)802-9533 | tbhappycow4052 | Lee35145@gmail.com |
 | **Brendan L** | (425)677-5762 | nellonelloy | b.laskowsski@me.com |
-| **Sidra Elsaady** | (602)413-3300 | Discord | Email |
+| **Sidra Elsaady** | (602)413-3300 | sidra_41257 | sidraelsaady@gmail.com |
 | **Zander Boward** | (610)420-7076 | zanderboward_38427 | aboward@asu.edu |
 
 ### Communication Procedures
@@ -62,7 +62,7 @@ This mission statement defines the distilled purpose of our physical device. Our
 | :--- | :--- | :--- |
 | **Meeting Leader** | Branden Cluff | Schedules meetings, creates agendas, and runs discussions |
 | **Meeting Recorder** | Zander Boward | Tracks minutes, attendance, and logs action items |
-| **Assignment Leader** | TBD | Coordinates final assignment assembly and Canvas submissions |
+| **Assignment Leader** | Sidra Elsaady | Coordinates final assignment assembly and Canvas submissions |
 | **Project Monitor** | Brendan Laskowski | Tracks progress relative to the project schedule and Gantt chart |
 
 * **Technical Task Allocation:** responsibilities (firmware, PCB capture, hardware testing) will be assigned based on individual skill goals and reviewed during weekly meetings.
@@ -84,5 +84,5 @@ This mission statement defines the distilled purpose of our physical device. Our
 
 * **Member 1:** *[Branden Cluff]*
 * **Member 2:** *[Brendan Laskowski]*
-* **Member 3:** *[Name / Electronic Signature]*
+* **Member 3:** *[Sidra Elsaady]*
 * **Member 4:** *[Zander Boward]*
