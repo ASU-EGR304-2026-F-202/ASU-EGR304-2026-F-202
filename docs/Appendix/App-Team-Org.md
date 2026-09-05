@@ -16,7 +16,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Sidra Elsaady |  messages | gmail | discord |
-|Member 2 |  ? | ? | ? |
+|Brendan Laskowski |  messages | email | discord |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
 
@@ -35,27 +35,27 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | S | - | M | - | M | - | S |
-| 9:00 AM |S | F | M | - | M | - | S |
-| 10:00 AM | S | B | M | - | M | - | S |
-| 11:00 AM | S | B | M | - | M | - | S |
-| 12:00 PM | S | B, Z | M | - | M | - | S |
-| 1:00 PM | S |  | M | - | M | - | S |
-| 2:00 PM | S| - | M | - | M | - | S |
-| 3:00 PM | S | - | M | - | M | - | S |
-| 4:00 PM | S | - | M | - | M | - | S |
-| 5:00 PM | S | - | M | - | M | - | S |
-| 6:00 PM | S | - | S | - | M | - | S |
-| 7:00 PM | S | S | S | - | S | - | S |
-| 8:00 PM | S | S | S | S | S | - | S |
-| 9:00 PM | S | S | S | S | S | - | S|
+| 8:00 AM | S,B | B | - | B | M | B | S,B |
+| 9:00 AM |S,B | B | - | B | M | B | S,B |
+| 10:00 AM | S,B | B | - | B | M | B | S,B |
+| 11:00 AM | S,B | B | - | B | M | B | S,B |
+| 12:00 PM | S,B | B | - | B | M | B | S,B |
+| 1:00 PM | S,B | B | - | - | M | B | S,B |
+| 2:00 PM | S,B | - | - | - | M | B | S,B |
+| 3:00 PM | S,B | - | B | - | B | B | S,B |
+| 4:00 PM | S,B | - | B | B | B | B | S,B |
+| 5:00 PM | S,B | B | B | B | B | B | S,B |
+| 6:00 PM | S,B | B | S,B | B | B | B | S,B |
+| 7:00 PM | S,B | S,B | S,B | B | S,B | B | S,B |
+| 8:00 PM | S,B | S,B | S,B | S,B | S,B | B | S,B |
+| 9:00 PM | S,B | S,B | S,B | S,B | S,B | B | S,B |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
 | Sidra | S |
-| Mary | M |
+| Brendan | B |
 | Zane | Z |
 | Felicity | F |
 
