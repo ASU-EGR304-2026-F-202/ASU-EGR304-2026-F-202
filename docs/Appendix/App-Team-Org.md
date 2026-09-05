@@ -15,7 +15,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
+|[Sidra Elsaady] |  messages | gmail | discord |
 |Member 2 |  ? | ? | ? |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
@@ -35,26 +35,26 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 8:00 AM | S | - | M | - | M | - | S |
+| 9:00 AM |S | F | M | - | M | - | S |
+| 10:00 AM | S | B | M | - | M | - | S |
+| 11:00 AM | S | B | M | - | M | - | S |
+| 12:00 PM | S | B, Z | M | - | M | - | S |
+| 1:00 PM | S |  | M | - | M | - | S |
+| 2:00 PM | S| - | M | - | M | - | S |
+| 3:00 PM | S | - | M | - | M | - | S |
+| 4:00 PM | S | - | M | - | M | - | S |
+| 5:00 PM | S | - | M | - | M | - | S |
+| 6:00 PM | S | - | S | - | M | - | S |
+| 7:00 PM | S | S | S | - | S | - | S |
+| 8:00 PM | S | S | S | S | S | - | S |
+| 9:00 PM | S | S | S | S | S | - | S|
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
+| Sidra | S |
 | Mary | M |
 | Zane | Z |
 | Felicity | F |
@@ -62,9 +62,9 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
+1. What method will you use to remind yourselves of meetings (a shared calendar?) Messages
+1. How will your team go about changing or adding meeting times? 
+1. What's the preferred format for meetings (face-to-face or virtually)? 
 1. Are there any other procedures that your team feels are necessary?
 
 ## Roles & Responsibilities
