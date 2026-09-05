@@ -5,7 +5,6 @@ edit_uri: edit/main/docs/
 nav:
   - Home: index.md
   - Appendix:
-      - Overview: Appendix/index.md
       - Team Organization: 02-Team-Organization.md
 theme:
   name: material
