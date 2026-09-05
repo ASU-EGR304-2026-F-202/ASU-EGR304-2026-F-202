@@ -17,7 +17,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Sidra Elsaady |  messages | gmail | discord |
 |Brendan Laskowski |  messages | email | discord |
-|Member 3 |  ? | ? | ? |
+|Zander Boward |  messages | gmail | US Postal Service |
 |Member 4 |  ? | ? | ? |
 
 ### Main Method for Group Communication
@@ -35,20 +35,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | S,B | B | - | B | M | B | S,B |
-| 9:00 AM |S,B | B | - | B | M | B | S,B |
-| 10:00 AM | S,B | B | - | B | M | B | S,B |
-| 11:00 AM | S,B | B | - | B | M | B | S,B |
-| 12:00 PM | S,B | B | - | B | M | B | S,B |
-| 1:00 PM | S,B | B | - | - | M | B | S,B |
-| 2:00 PM | S,B | - | - | - | M | B | S,B |
-| 3:00 PM | S,B | - | B | - | B | B | S,B |
-| 4:00 PM | S,B | - | B | B | B | B | S,B |
-| 5:00 PM | S,B | B | B | B | B | B | S,B |
-| 6:00 PM | S,B | B | S,B | B | B | B | S,B |
-| 7:00 PM | S,B | S,B | S,B | B | S,B | B | S,B |
-| 8:00 PM | S,B | S,B | S,B | S,B | S,B | B | S,B |
-| 9:00 PM | S,B | S,B | S,B | S,B | S,B | B | S,B |
+| 8:00 AM | S,B,Z | B | - | B | M | B | S,B,Z |
+| 9:00 AM |S,B,Z | B | - | B | M | B | S,B,Z |
+| 10:00 AM | S,B,Z | B,Z | - | B,Z | M | B | S,B,Z |
+| 11:00 AM | S,B,Z | B,Z | - | B,Z | M | B | S,B,Z |
+| 12:00 PM | S,B,Z | B,Z | - | B,Z | M | B | S,B,Z |
+| 1:00 PM | S,B,Z | B,Z | - | Z | M | B | S,B,Z |
+| 2:00 PM | S,B,Z | - | - | - | M | B | S,B,Z |
+| 3:00 PM | S,B,Z | - | B | - | B | B | S,B,Z |
+| 4:00 PM | S,B,Z | - | B | B | B | B | S,B,Z |
+| 5:00 PM | S,B,Z | B | B | B | B | B | S,B,Z |
+| 6:00 PM | S,B,Z | B | S,B | B | B | B | S,B,Z |
+| 7:00 PM | S,B,Z | S,B,Z | S,B | B,Z | S,B | B | S,B,Z |
+| 8:00 PM | S,B,Z | S,B,Z | S,B | S,B,Z | S,B | B | S,B,Z |
+| 9:00 PM | S,B,Z | S,B,Z | S,B | S,B,Z | S,B | B | S,B,Z |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -56,7 +56,7 @@ _**Table Legend for Appendix Table 2**_
 | ----- | :------: |
 | Sidra | S |
 | Brendan | B |
-| Zane | Z |
+| Zander | Z |
 | Felicity | F |
 
 
