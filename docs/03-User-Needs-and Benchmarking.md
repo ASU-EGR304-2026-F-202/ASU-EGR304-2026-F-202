@@ -45,7 +45,7 @@ title: User Needs and Benchmarking
 
 | Voice of the Customer | Restated Customer Need |
 | :--- | :--- |
-| "TDelivered quickly, set-up was a snap. Has great features and can add other sensors." | 1. he device requires minimal assembly and configuration to begin operating. (explicit)<br>2. The system allows users to connect auxiliary environmental sensors. (explicit))<br>3. Out-of-box user onboarding is straightforward for non-technical users. (latent) |
+| "Delivered quickly, set-up was a snap. Has great features and can add other sensors." | 1. The device requires minimal assembly and configuration to begin operating. (explicit)<br>2. The system allows users to connect auxiliary environmental sensors. (explicit))<br>3. Out-of-box user onboarding is straightforward for non-technical users. (latent) |
 
 ##### Negative Comments
 
