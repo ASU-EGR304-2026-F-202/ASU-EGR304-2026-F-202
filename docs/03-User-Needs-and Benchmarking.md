@@ -6,40 +6,33 @@ title: User Needs and Benchmarking
 
 ### Search #1
 
-**Keywords:** "kid science kit robotics"
+**Keywords:** "wireless outdoor weather station solar uv wind speed"
 
-**Search Results Link:** [https://www.walmart.com/ip/8-In-1-Anemometer-Wind-Speeds-Meter-With-Wind-Speeds-Temperature-Humidity-Pressure-Altitudes-And-Timers-Functions/20773172077?wmlspartner=wlpa&selectedSellerId=103222930&wmlspartner=wlpa&cn=FY25-ENTP-PMAX_cnv_dps_dsn_dis_ad_entp_e_n&gclsrc=aw.ds&adid=2222222229720773172077_103222930_0000000000_21407473164&wl0=&wl1=g&wl2=c&wl3=&wl4=&wl5=9053836&wl6=&wl7=&wl8=&wl9=pla&wl10=5832087418&wl11=online&wl12=20773172077_103222930&veh=sem&gad_source=1&gad_campaignid=21690411341&gclid=Cj0KCQjw8JPVBhD-ARIsAO691sHVyXhSAZNyINeWqU8D1ABtoCbuqrmwJJYEojnCEDd-s1K3oFGJeJIaAqmeEALw_wcB]([https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_](https://www.walmart.com/ip/8-In-1-Anemometer-Wind-Speeds-Meter-With-Wind-Speeds-Temperature-Humidity-Pressure-Altitudes-And-Timers-Functions/20773172077?wmlspartner=wlpa&selectedSellerId=103222930&wmlspartner=wlpa&cn=FY25-ENTP-PMAX_cnv_dps_dsn_dis_ad_entp_e_n&gclsrc=aw.ds&adid=2222222229720773172077_103222930_0000000000_21407473164&wl0=&wl1=g&wl2=c&wl3=&wl4=&wl5=9053836&wl6=&wl7=&wl8=&wl9=pla&wl10=5832087418&wl11=online&wl12=20773172077_103222930&veh=sem&gad_source=1&gad_campaignid=21690411341&gclid=Cj0KCQjw8JPVBhD-ARIsAO691sHVyXhSAZNyINeWqU8D1ABtoCbuqrmwJJYEojnCEDd-s1K3oFGJeJIaAqmeEALw_wcB)2)
+**Search Results Link:** [https://www.amazon.com/s?k=wireless+outdoor+weather+station+solar+uv+wind+speed](https://www.amazon.com/s?k=wireless+outdoor+weather+station+solar+uv+wind+speed)
 
 ### Selected Products
 
-#### 1. [8 In 1 Anemometer Wind Speeds Meter With Wind Speeds Temperature Humidity Pressure Altitudes And Timers Functions]([https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/](https://www.walmart.com/ip/8-In-1-Anemometer-Wind-Speeds-Meter-With-Wind-Speeds-Temperature-Humidity-Pressure-Altitudes-And-Timers-Functions/20773172077?wmlspartner=wlpa&selectedSellerId=103222930&wmlspartner=wlpa&cn=FY25-ENTP-PMAX_cnv_dps_dsn_dis_ad_entp_e_n&gclsrc=aw.ds&adid=2222222229720773172077_103222930_0000000000_21407473164&wl0=&wl1=g&wl2=c&wl3=&wl4=&wl5=9053836&wl6=&wl7=&wl8=&wl9=pla&wl10=5832087418&wl11=online&wl12=20773172077_103222930&veh=sem&gad_source=1&gad_campaignid=21690411341&gclid=Cj0KCQjw8JPVBhD-ARIsAO691sHVyXhSAZNyINeWqU8D1ABtoCbuqrmwJJYEojnCEDd-s1K3oFGJeJIaAqmeEALw_wcB)) < ([link to the product](https://www.walmart.com/ip/8-In-1-Anemometer-Wind-Speeds-Meter-With-Wind-Speeds-Temperature-Humidity-Pressure-Altitudes-And-Timers-Functions/20773172077?wmlspartner=wlpa&selectedSellerId=103222930&wmlspartner=wlpa&cn=FY25-ENTP-PMAX_cnv_dps_dsn_dis_ad_entp_e_n&gclsrc=aw.ds&adid=2222222229720773172077_103222930_0000000000_21407473164&wl0=&wl1=g&wl2=c&wl3=&wl4=&wl5=9053836&wl6=&wl7=&wl8=&wl9=pla&wl10=5832087418&wl11=online&wl12=20773172077_103222930&veh=sem&gad_source=1&gad_campaignid=21690411341&gclid=Cj0KCQjw8JPVBhD-ARIsAO691sHVyXhSAZNyINeWqU8D1ABtoCbuqrmwJJYEojnCEDd-s1K3oFGJeJIaAqmeEALw_wcB))
+#### 1. [Ambient Weather WS-2000 WiFi Smart Weather Station]([https://www.amazon.com/Ambient-Weather-WS-2902-Station-Remote/dp/B01N5TEHLI/](https://www.amazon.com/gp/aw/d/B07GRBY9NP?pd_rd_plhdr=t&hsa_cr_id=0&qid=1789264071&sr=1-1-fec03104-6f11-4242-8f79-15fae2896f66&i=aps&aref=saTQEMfZ5y&_encoding=UTF8&ref_=sbx_s_sparkle_sbtcd_asin_0_title&pd_rd_w=O1ZPX&content-id=amzn1.sym.22e060df-ce87-467b-805a-61b8bd37fbe9%3Aamzn1.sym.22e060df-ce87-467b-805a-61b8bd37fbe9&pf_rd_p=22e060df-ce87-467b-805a-61b8bd37fbe9&pf_rd_r=T0BVQNSFMG4ZDJNTX1X7&pd_rd_wg=F3egU&pd_rd_r=32ec9afa-5c68-4722-ac6e-6ff30678ea12&th=1))
 
-![](image1.png)
+![](https://m.media-amazon.com/images/I/71Yy3+h8zRL._AC_SL1500_.jpg)
 
-**(include a picture)**
-
-* Price: $65
-
+* Price: $299.99
 * Vendor: Amazon
-
-* Description: The kit includes over 50 high quality components and 10 Challenges that inspire kids to invent their own creations. The pieces are a combination of the everyday and the mysterious, perfect for generating creativity, boosting IQ and instilling STEM knowledge.
+* Description: All-in-one wireless outdoor sensor array measuring wind speed, wind direction, temperature, humidity, UV index, solar radiation, and rainfall, transmitting data to an indoor color LCD console.
 
 ##### Positive Comments
 
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
+| Voice of the Customer | Restated Customer Need |
+| :--- | :--- |
+| "This is my second Ambient PWS. I received this as a Christmas gift. Easy to run through the instructions but the user should use the video based tutorial rather than the printed instructions. Accuracy seems perfect but I had to spend a bit of time calibrating the baramoter. I would recommend this model for any weather enthusiast." | 1. The device includes step-by-step setup documentation. (Explicit)<br>2. Setup materials utilize visual media to guide assembly and configuration. (Latent)<br>3. The system allows manual calibration offset adjustments for barometric pressure. (Explicit) |
 
 ##### Negative Comments
 
-| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| "I am a STEM teacher and bought a large quantity of these kits and I am disgusted by how easily the motor breaks. 12 years in STEM schools and this product is at the bottom of my list. The ladybug platform, as we call it, needs some reimagining and the materials simply can't handle the wear and tear of a classroom. Sad that I spend my own money on this with so little we got out of it." | 1.  The kit is robust. (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
+| Voice of the Customer | Restated Customer Need |
+| :--- | :--- |
+| "Product works fine, but do know it uses frequency 868 MHz, while all its accessories are on 915 MHz and are thus not usable. Better go for an Ecowitt Weather station." | 1. Wireless subsystems operate across matching regional frequency bands. (Explicit)<br>2. Main base stations maintain hardware compatibility with expansion accessories. (Explicit)<br>3. Wireless operating frequencies are clearly identified across system documentation and packaging. (Latent) |
 
+---
 #### 2. Next Product goes here
 
 ### Search #2
