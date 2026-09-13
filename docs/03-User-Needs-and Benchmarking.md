@@ -34,6 +34,9 @@ title: User Needs and Benchmarking
 
 ---
 #### 2. [4900FT WiFi Smart Weather Stations Wireless Indoor Outdoor, LoRa Based Wireless Weather Station with 7.4” HD Display, 7-in-1 Solar Sensor, Thermo-Hygro Sensor, Bird Spike](https://www.amazon.com/AIR-ALFA-Stations-Wireless-Thermo-Hygro/dp/B0GQZ68ZFC/ref=sr_1_1_sspa?crid=2TUDOCKTHZGZU&dib=eyJ2IjoiMSJ9.hZOpcieqh3bhjCHtJxK7Z75Jj0IGSfRsRfoo3Co1boB3JvhMKqwYmhg5KAekDmvNc8drVMiU-4jHXxPLY6DFGaBB8YQ_364xBB6-i3XXRXF9tx2bJ8vDrmQFq3yCX22uNqt5grwjWZGN3bV7Xv5ecDZnwx3N3ADgcgxhYpNAMHHuOmKrJGpu5l-oBWvRggKuO9JS-3TQ0s4ifzMWFn9Zh6jRHl-CWcJGNEsXlbnlWlFocNlpe8Q5_Q_Psj0f-0WGHdrwcdZEA8RDkHsRyRfqat2STUGivMnLrDMM0_Wsna8.fPHaN76MzmK4FzcmRu-cnOdb22NuMOTD47zGc9f_Mus&dib_tag=se&keywords=wireless+outdoor+weather+station+solar+uv+wind+speed&nsdOptOutParam=true&qid=1789270260&s=industrial&sprefix=wireless+outdoor+weather+station+solar+uv+wind+speed%2Cindustrial%2C180&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+
+![](image/71Jy3LE7ZxL._SL1500_.jpg)
+
 * Price: $199.99
 * Vendor: Amazon
 * Description: An expandable outdoor environmental monitoring system featuring a 7-in-1 solar-powered sensor array and a 7.4-inch HD color display console. The outdoor unit tracks temperature, humidity, rainfall, wind speed, wind direction, UV, and light intensity, using long-range LoRa wireless technology to transmit telemetry up to 4,900 feet to the console. The system supports up to 14 multi-zone add-on sensors and offers 2.4 GHz Wi-Fi connectivity for mobile app alerting and CSV data export.
