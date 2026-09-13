@@ -78,7 +78,7 @@ title: User Needs and Benchmarking
 ---
 #### 4. [VEVOR 7-in-1 Wi-Fi Weather Station with APP, 7.5-Inch VA Display, Solar Powered Outdoor Sensor, Rain Gauge, Indoor Outdoor for Weather Forecast, Wind Speed, Temperature, Humidity, Rainfall]([https://www.amazon.com/Sainlogic-Weather-Forecast-Weatherseed%C2%AE-Wireless/dp/B0GXFC21DP/)](https://www.amazon.com/VEVOR-Wi-Fi-Weather-Station-Temperature/dp/B0FM3CVKNL/))
 
-![](image/)
+![](image/Vendor.jpg)
 
 * Price: $100.99
 * Vendor: Amazon
@@ -100,7 +100,7 @@ title: User Needs and Benchmarking
 
 #### 5. [AcuRite Iris PRO+ (5-in-1) Weather Sensor](https://www.amazon.com/AcuRite-Weather-Direction-Temperature-Humidity/dp/B00SN1WHEU/)
 
-![](image/)
+![](image/Acurite.jpg)
 
 * Price: $107.99
 * Vendor: Amazon
