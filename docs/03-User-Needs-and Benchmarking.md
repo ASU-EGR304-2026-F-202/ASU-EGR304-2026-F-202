@@ -12,9 +12,9 @@ title: User Needs and Benchmarking
 
 ### Selected Products
 
-#### 1. [Ambient Weather WS-2000 WiFi Smart Weather Station]([https://www.amazon.com/Ambient-Weather-WS-2902-Station-Remote/dp/B01N5TEHLI/](https://www.amazon.com/gp/aw/d/B07GRBY9NP?pd_rd_plhdr=t&hsa_cr_id=0&qid=1789264071&sr=1-1-fec03104-6f11-4242-8f79-15fae2896f66&i=aps&aref=saTQEMfZ5y&_encoding=UTF8&ref_=sbx_s_sparkle_sbtcd_asin_0_title&pd_rd_w=O1ZPX&content-id=amzn1.sym.22e060df-ce87-467b-805a-61b8bd37fbe9%3Aamzn1.sym.22e060df-ce87-467b-805a-61b8bd37fbe9&pf_rd_p=22e060df-ce87-467b-805a-61b8bd37fbe9&pf_rd_r=T0BVQNSFMG4ZDJNTX1X7&pd_rd_wg=F3egU&pd_rd_r=32ec9afa-5c68-4722-ac6e-6ff30678ea12&th=1))
+#### 1. [Ambient Weather WS-2000 WiFi Smart Weather Station](https://www.amazon.com/gp/aw/d/B07GRBY9NP)
 
-![](https://m.media-amazon.com/images/I/71Yy3+h8zRL._AC_SL1500_.jpg)
+![](image/61FL1666qmL._SL1142_.jpg)
 
 * Price: $299.99
 * Vendor: Amazon
