@@ -5,6 +5,7 @@ edit_uri: edit/main/docs/
 nav:
   - Home: index.md
   - Team Organization: 02-Team-Organization.md
+  - User Needs and Benchmarking: 03-User-Needs-and Benchmarking.md
   - Appendix:
       - Team Organization: Appendix/App-Team-Org.md
 theme:
