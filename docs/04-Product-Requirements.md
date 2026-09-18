@@ -36,7 +36,8 @@ The new product design will be based on that of the AirPods with improvements ba
 2. **Functionality**
       * 2.1 The product shall measure relative humidity from 0–100% RH with a target accuracy of ±3% RH. (P10)
       * 2.2 The product shall measure an atmospheric pressure range of approximately 300–1100 hPa with an accuracy of approximately ±1 hPa
-      * 2.3
+      * 2.3 The product shall measure an ambient light measurement range of at least 0–10,000 lux.
+      * 2.4 Measurements will be updated and displayed at least once every two seconds
         
 3. **Interactivity & User Experience**
       * 3.1
