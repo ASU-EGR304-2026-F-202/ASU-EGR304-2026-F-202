@@ -40,11 +40,11 @@ Marcus lives in the Valley of the Sun, where extreme heat, low humidity, intense
     * 2.4 Measurements will be updated and displayed at least once every two seconds. (P8)
     * 2.5 The microcontroller shall be capable of receiving and correctly interpreting signals sent by teammates' subsystems over the shared ribbon connector. (P8)
     * 2.6 The microcontroller shall be capable of transmitting correctly formatted signals to teammates' subsystems over the shared ribbon connector. (P8)
-        
+
 3. **Interactivity & User Experience**
     * 3.1 The product shall display current humidity, pressure, and ambient light readings simultaneously on a single screen, legible in direct sunlight. (P8)
     * 3.2 The product shall use a display format that is understandable to a non-technical enthusiast. (P6)
-           
+
 4. **Customization**
     * 4.1 The product shall be offered with a mounting option suitable for outdoor garden placement. (P4)
     * 4.2 The product shall allow the user to select between metric and imperial display units. (P3)
@@ -59,7 +59,7 @@ Marcus lives in the Valley of the Sun, where extreme heat, low humidity, intense
     * 6.1 The product shall limit input current draw to no more than 1.5A to prevent damage to the regulator and connected subsystems. (P10)
     * 6.2 The product's power regulation circuitry shall prevent voltages above 5.5V from reaching the microcontroller or sensors under normal operating conditions. (P10)
     * 6.3 The product shall not expose users to sharp edges, pinch points, or exposed conductive traces during normal handling. (P7)
-         
+
 ## Requirement Criteria Specifications
 
 1. **Product Design**
@@ -84,7 +84,7 @@ Marcus lives in the Valley of the Sun, where extreme heat, low humidity, intense
 4. **Customization**
     * 4.1 Confirm mounting hardware is included and physically compatible with the enclosure.
     * 4.2 Toggle unit setting and confirm all three measurements convert correctly.
-    * 4.3 Apply water spray to coated enclosure and inspect for finish degradation. 
+    * 4.3 Apply water spray to coated enclosure and inspect for finish degradation.
 
 5. **Manufacturing**
     * 5.1 Review PCB design files to confirm all components are compatible with standard surface-mount assembly.
@@ -95,7 +95,7 @@ Marcus lives in the Valley of the Sun, where extreme heat, low humidity, intense
     * 6.1 Apply short-circuit/over-current condition at regulator output and confirm current draw is limited to <1.5A without component damage.
     * 6.2 Vary input voltage at the barrel jack, measure voltage at sensor supply pins, and confirm it never exceeds 5.5V.
     * 6.3 Physically handle the assembled unit and enclosure and check for exposed traces or pinch points.
-  
+
 ## Open Questions
 
 * Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
