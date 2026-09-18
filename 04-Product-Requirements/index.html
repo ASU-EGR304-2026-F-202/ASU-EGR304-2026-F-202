@@ -719,7 +719,6 @@
 <p>Marcus lives in the Valley of the Sun, where extreme heat, low humidity, intense sunlight, and seasonal monsoon storms create rapidly changing weather conditions. As a meteorology enthusiast, Marcus enjoys observing these changes and wants a convenient way to collect environmental measurements around his home. He uses the environmental monitoring device to measure atmospheric pressure, relative humidity, and ambient light throughout the day. By viewing these measurements on the device's display, Marcus can observe how local environmental conditions change as weather systems move through the valley and compare his observations with local weather reports.
 ...</p>
 <h2 id="aspects">Aspects</h2>
-<p>The new product design will be based on that of the AirPods with improvements based on the following requirements. The <strong>P1 - P10</strong> is the "code" to indicate the priority of the requirement, from low to high.</p>
 <ol>
 <li><strong>Product Design</strong></li>
 <li>1.1 The product shall contain sensors capable of measuring pressure, humidity, and ambient light. (P9)</li>
@@ -773,47 +772,47 @@
 <h2 id="requirement-criteria-specifications">Requirement Criteria Specifications</h2>
 <ol>
 <li><strong>Product Design</strong></li>
-<li>1.1.1 Confirm Via data sheet review that selected sensor ICs cover the required pressure, humidity, and light range</li>
-<li>1.2.1 Apply light water spray to assembled enclosure for 60seconds, visually inspect internals for moisture entrance</li>
-<li>1.3.1 Remove and replace batteries using only fingers</li>
-<li>1.4.1 Compare connector pin assignment against the team block diagram pinout table</li>
+<li>1.1 Confirm Via data sheet review that selected sensor ICs cover the required pressure, humidity, and light range</li>
+<li>1.2 Apply light water spray to assembled enclosure for 60seconds, visually inspect internals for moisture entrance</li>
+<li>1.3 Remove and replace batteries using only fingers</li>
+<li>1.4 Compare connector pin assignment against the team block diagram pinout table</li>
 <li>
-<p>1.5.1 Measure regulator output voltage under no load and full load conditions with a multimeter, confirm output stays within range.</p>
+<p>1.5 Measure regulator output voltage under no load and full load conditions with a multimeter, confirm output stays within range.</p>
 </li>
 <li>
 <p><strong>Functionality</strong></p>
 </li>
-<li>2.1.1 Check the device's humidity readings against a trusted humidity reader at a few different moisture levels and conifrm error stays within +/- 3%RH</li>
-<li>2.2.1 Compare device pressure readings against known altitude points and confirm error stays within +/- 1hPa.</li>
-<li>2.3.1 Expose light sensor to calibrated light sources from 0–10,000 lux; confirm readings track within acceptable tolerance.</li>
-<li>2.4.1 Use a timer to confirm display refresh interval does not exceed 2 seconds across 10 consecutive cycles.</li>
-<li>2.5.1 Send test signals from a teammate's board on each ribbon pin and confirm correct interpretation.</li>
+<li>2.1 Check the device's humidity readings against a trusted humidity reader at a few different moisture levels and conifrm error stays within +/- 3%RH</li>
+<li>2.2 Compare device pressure readings against known altitude points and confirm error stays within +/- 1hPa.</li>
+<li>2.3 Expose light sensor to calibrated light sources from 0–10,000 lux; confirm readings track within acceptable tolerance.</li>
+<li>2.4 Use a timer to confirm display refresh interval does not exceed 2 seconds across 10 consecutive cycles.</li>
+<li>2.5 Send test signals from a teammate's board on each ribbon pin and confirm correct interpretation.</li>
 <li>
-<p>2.6.1 Trigger microcontroller to transmit signals on each ribbon pin andd confirm correct format via receiving board</p>
+<p>2.6 Trigger microcontroller to transmit signals on each ribbon pin andd confirm correct format via receiving board</p>
 </li>
 <li>
 <p>**Interactivity and User Design **</p>
 </li>
 <li>
-<p>3.1.1 View display outdoors in direct sunlight and confirm a test user can read all three values</p>
+<p>3.1 View display outdoors in direct sunlight and confirm a test user can read all three values</p>
 </li>
 <li>
-<p>3.2.1 Have an untrained test user view the display and correctly state each reading without instruction</p>
+<p>3.2 Have an untrained test user view the display and correctly state each reading without instruction</p>
 </li>
 <li>
 <p><strong>Customization</strong></p>
 </li>
-<li>4.1.1 Confirm mounting hardware is included and physically compatible with the enclosure.</li>
-<li>4.2.1 Toggle unit setting and confirm all three measurements convert correctly</li>
-<li>4.3.1 Apply water spray to coated enclosure and inspect for finish degradation </li>
+<li>4.1 Confirm mounting hardware is included and physically compatible with the enclosure.</li>
+<li>4.2 Toggle unit setting and confirm all three measurements convert correctly</li>
+<li>4.3 Apply water spray to coated enclosure and inspect for finish degradation </li>
 <li><strong>Manufacturing</strong>
-<em>5.1.1 Review PCB design files to confirm all components are compatible with standard surface-mount assembly
-</em>5.2.1 Cross-check BOM part numbers against supplier stock at time of order
-*5.3.1 Total projected enclosure material cost against the defined budget limit</li>
+<em>5.1 Review PCB design files to confirm all components are compatible with standard surface-mount assembly
+</em>5.2 Cross-check BOM part numbers against supplier stock at time of order
+*5.3 Total projected enclosure material cost against the defined budget limit</li>
 <li><strong>Safety</strong>
-<em>6.1.1 Apply short-circuit/over-current condition at regulator output and confirm current draw is limited to &lt;1.5A without component damage.
-</em>6.2.1 Vary input voltage at the barrel jack and measure voltage at sensor supply pins and confirm it never exceeds 5.5V.
-*6.3.1 Physically handle the assembled unit and enclosure and check for exposed traces or pinch points.</li>
+<em>6.1 Apply short-circuit/over-current condition at regulator output and confirm current draw is limited to &lt;1.5A without component damage.
+</em>6.2 Vary input voltage at the barrel jack and measure voltage at sensor supply pins and confirm it never exceeds 5.5V.
+*6.3 Physically handle the assembled unit and enclosure and check for exposed traces or pinch points.</li>
 </ol>
 <h2 id="open-questions">Open Questions</h2>
 <ul>
