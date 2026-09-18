@@ -100,3 +100,4 @@ The new product design will be based on that of the AirPods with improvements ba
 
 * Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
 * Can we improve on failing or self-igniting batteries?
+* How long should the device run on a set of batteries? Is there a target battery life?
