@@ -28,15 +28,34 @@ Marcus lives in the Valley of the Sun, where extreme heat, low humidity, intense
 
 The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
-1. **Producer Design**
-   * 1.1 The product shall be visually easy to distinguish from existing AirPods as well as main competitors Sony WF-1000XM3, Jabra Elite, Amazon Echo Buds, Samsung Galaxy Buds, and Bose SoundSport Free, and Urbanista Stockholm. (P10)
-   * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
-   * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
+1. **Product Design**
+   * 1.1 The product shall contain sensors capable of measuring pressure, humidity, and ambient light.
+   * 1.2 The product will be in a completely contained unit to prevent water damage.
+   * 1.3 The product will have access and replace batteries.
   
-1. **Functionality**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+2. **Functionality**
+      * 2.1 The product shall measure relative humidity from 0–100% RH with a target accuracy of ±3% RH. (P10)
+      * 2.2 The product shall measure an atmospheric pressure range of approximately 300–1100 hPa with an accuracy of approximately ±1 hPa
+      * 2.3
+        
+3. **Interactivity & User Experience**
+      * 3.1
+      * 3.2
+           
+4. **Customization**
+     * 4.1
+     * 4.2
+     * 4.3
 
+5. **Customization**
+     * 5.1
+     * 5.2
+     * 5.3
+
+  6. **Safety**
+     * 6.1
+     * 6.2
+       
 ## Requirement Criteria Specifications
 
 * 1.1.1 - Regulate system power from 9 volts to 5 volts
