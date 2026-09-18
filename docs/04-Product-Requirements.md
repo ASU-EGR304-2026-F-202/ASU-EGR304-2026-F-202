@@ -70,7 +70,6 @@ The new product design will be based on that of the AirPods with improvements ba
 * 1.4.1 Compare connector pin assignment against the team block diagram pinout table
 * 1.5.1 Measure regulator output voltage under no load and full load conditions with a multimeter, confirm output stays within range.
 
-  
 2. **Functionality**
 * 2.1.1 Check the device's humidity readings against a trusted humidity reader at a few different moisture levels and conifrm error stays within +/- 3%RH
 * 2.2.1 Compare device pressure readings against known altitude points and confirm error stays within +/- 1hPa.
@@ -79,8 +78,7 @@ The new product design will be based on that of the AirPods with improvements ba
 * 2.5.1 Send test signals from a teammate's board on each ribbon pin and confirm correct interpretation.
 * 2.6.1 Trigger microcontroller to transmit signals on each ribbon pin andd confirm correct format via receiving board
 
-
-  3. **Interactivity & User Experience**
+3. **Interactivity and User Design **
 
 * 3.1.1 View display outdoors in direct sunlight and confirm a test user can read all three values
 * 3.2.1 Have an untrained test user view the display and correctly state each reading without instruction
