@@ -481,9 +481,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#user-story-2" class="md-nav__link">
+  <a href="#user-story-2-marcus" class="md-nav__link">
     <span class="md-ellipsis">
-      User Story #2
+      User Story #2: Marcus
     </span>
   </a>
   
@@ -637,9 +637,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#user-story-2" class="md-nav__link">
+  <a href="#user-story-2-marcus" class="md-nav__link">
     <span class="md-ellipsis">
-      User Story #2
+      User Story #2: Marcus
     </span>
   </a>
   
@@ -715,25 +715,25 @@
 <h2 id="use-cases">Use Cases</h2>
 <h3 id="user-story-1-janelle">User Story #1: Janelle</h3>
 <p>Janelle is a 42-year-old mother who lives in a mountainous valley outside of Seattle. The surrounding terrain creates several microclimates, causing light, humidity, and atmospheric pressure to vary throughout the area. As a gardening enthusiast, Janelle wants to better understand the environmental conditions affecting her personal garden. She uses the environmental monitoring device to measure the ambient light, relative humidity, and atmospheric pressure around her plants. By viewing these measurements on the device's display, Janelle can observe changes in her garden's local environment and use the information to better understand the conditions in which her plants are growing. </p>
-<h3 id="user-story-2">User Story #2</h3>
+<h3 id="user-story-2-marcus">User Story #2: Marcus</h3>
 <p>Marcus lives in the Valley of the Sun, where extreme heat, low humidity, intense sunlight, and seasonal monsoon storms create rapidly changing weather conditions. As a meteorology enthusiast, Marcus enjoys observing these changes and wants a convenient way to collect environmental measurements around his home. He uses the environmental monitoring device to measure atmospheric pressure, relative humidity, and ambient light throughout the day. By viewing these measurements on the device's display, Marcus can observe how local environmental conditions change as weather systems move through the valley and compare his observations with local weather reports.
 ...</p>
 <h2 id="aspects">Aspects</h2>
 <p>The new product design will be based on that of the AirPods with improvements based on the following requirements. The <strong>P1 - P10</strong> is the "code" to indicate the priority of the requirement, from low to high.</p>
 <ol>
 <li><strong>Product Design</strong></li>
-<li>1.1 The product shall contain sensors capable of measuring pressure, humidity, and ambient light.</li>
-<li>1.2 The product will be in a completely contained unit to prevent water damage.</li>
-<li>1.3 The product will have access and replace batteries.</li>
+<li>1.1 The product shall contain sensors capable of measuring pressure, humidity, and ambient light. (P9)</li>
+<li>1.2 The product will be in a completely contained unit to prevent water damage. (P8)</li>
+<li>1.3 The product will have access and replace batteries. (P7)</li>
 <li>1.4 The product shall connect to teammates' subsystems via an 8-wire ribbon cable using a 2x4 IDC header, following the team's shared pinout (5 digital I/O, 2 analog I/O, 1 ground). (P9)</li>
 <li>1.5 The product shall regulate incoming 9V power to stable 5V supple for the microcontroller and sensors. (P10)</li>
 <li>
 <p><strong>Functionality</strong></p>
 <ul>
 <li>2.1 The product shall measure relative humidity from 0–100% RH with a target accuracy of ±3% RH. (P10)</li>
-<li>2.2 The product shall measure an atmospheric pressure range of approximately 300–1100 hPa with an accuracy of approximately ±1 hPa</li>
-<li>2.3 The product shall measure an ambient light measurement range of at least 0–10,000 lux.</li>
-<li>2.4 Measurements will be updated and displayed at least once every two seconds</li>
+<li>2.2 The product shall measure an atmospheric pressure range of approximately 300–1100 hPa with an accuracy of approximately ±1 hPa (P10)</li>
+<li>2.3 The product shall measure an ambient light measurement range of at least 0–10,000 lux. (P9)</li>
+<li>2.4 Measurements will be updated and displayed at least once every two seconds (P8)</li>
 <li>2.5 The microcontroller shall be capable of receiving and correctly interpreting signals sent by teammates' subsystems over shared ribbon connector. (P8)</li>
 <li>2.6 The microcontroller shall be capable of transmitting correctly formatted signals to teammates' subsystems over shared ribbon connector. (P8)</li>
 </ul>
@@ -756,7 +756,7 @@
 <li>
 <p><strong>Manufacturing</strong></p>
 <ul>
-<li>5.1 The PCB shall be productible using standard surface mount assembly processes available to the team. (P9)</li>
+<li>5.1 The PCB shall be producible using standard surface mount assembly processes available to the team. (P9)</li>
 <li>5.2 All components shall be sourced from suppliers with verified availability at time of order to avoid production delays. (P7)</li>
 <li>5.3 The enclosure shall be manufacturable within the courses budget. (P6)</li>
 </ul>
@@ -771,10 +771,50 @@
 </li>
 </ol>
 <h2 id="requirement-criteria-specifications">Requirement Criteria Specifications</h2>
-<ul>
-<li>1.1.1 - Regulate system power from 9 volts to 5 volts</li>
-<li>1.1.2 - Provide over-amperage project to not exceed 1.5 amps.</li>
-</ul>
+<ol>
+<li><strong>Product Design</strong></li>
+<li>1.1.1 Confirm Via data sheet review that selected sensor ICs cover the required pressure, humidity, and light range</li>
+<li>1.2.1 Apply light water spray to assembled enclosure for 60seconds, visually inspect internals for moisture entrance</li>
+<li>1.3.1 Remove and replace batteries using only fingers</li>
+<li>1.4.1 Compare connector pin assignment against the team block diagram pinout table</li>
+<li>
+<p>1.5.1 Measure regulator output voltage under no load and full load conditions with a multimeter, confirm output stays within range.</p>
+</li>
+<li>
+<p><strong>Functionality</strong></p>
+</li>
+<li>2.1.1 Check the device's humidity readings against a trusted humidity reader at a few different moisture levels and conifrm error stays within +/- 3%RH</li>
+<li>2.2.1 Compare device pressure readings against known altitude points and confirm error stays within +/- 1hPa.</li>
+<li>2.3.1 Expose light sensor to calibrated light sources from 0–10,000 lux; confirm readings track within acceptable tolerance.</li>
+<li>2.4.1 Use a timer to confirm display refresh interval does not exceed 2 seconds across 10 consecutive cycles.</li>
+<li>2.5.1 Send test signals from a teammate's board on each ribbon pin and confirm correct interpretation.</li>
+<li>
+<p>2.6.1 Trigger microcontroller to transmit signals on each ribbon pin andd confirm correct format via receiving board</p>
+</li>
+<li>
+<p><strong>Interactivity &amp; User Experience</strong></p>
+</li>
+<li>
+<p>3.1.1 View display outdoors in direct sunlight and confirm a test user can read all three values</p>
+</li>
+<li>
+<p>3.2.1 Have an untrained test user view the display and correctly state each reading without instruction</p>
+</li>
+<li>
+<p><strong>Customization</strong></p>
+</li>
+<li>4.1.1 Confirm mounting hardware is included and physically compatible with the enclosure.</li>
+<li>4.2.1 Toggle unit setting and confirm all three measurements convert correctly</li>
+<li>4.3.1 Apply water spray to coated enclosure and inspect for finish degradation </li>
+<li><strong>Manufacturing</strong>
+<em>5.1.1 Review PCB design files to confirm all components are compatible with standard surface-mount assembly
+</em>5.2.1 Cross-check BOM part numbers against supplier stock at time of order
+*5.3.1 Total projected enclosure material cost against the defined budget limit</li>
+<li><strong>Safety</strong>
+<em>6.1.1 Apply short-circuit/over-current condition at regulator output and confirm current draw is limited to &lt;1.5A without component damage.
+</em>6.2.1 Vary input voltage at the barrel jack and measure voltage at sensor supply pins and confirm it never exceeds 5.5V.
+*6.3.1 Physically handle the assembled unit and enclosure and check for exposed traces or pinch points.</li>
+</ol>
 <h2 id="open-questions">Open Questions</h2>
 <ul>
 <li>Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?</li>
