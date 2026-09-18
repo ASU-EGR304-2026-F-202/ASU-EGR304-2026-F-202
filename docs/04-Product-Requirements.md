@@ -8,11 +8,12 @@ This project aims to design and develop a compact environmental monitoring devic
 
 ## Stakeholders
 
-* **Target group** Middle-income adults approximately 20–50 years old who have an interest in gardening, meteorology, environmental monitoring, or electronics.
-* **Target purchaser** Gardening and meteorology enthusiasts or hobbyists who want an affordable way to monitor local environmental conditions.
-* **Customer service** Responsible for providing users with instructions for setup, operation, troubleshooting, and interpretation of sensor measurements through an instruction manual and instructional video.
-* **Marketing & Sales division** Responsible for advertising the product to gardening and weather enthusiasts through locations such as botanical gardens, nurseries, garden centers, and online hobbyist communities.
-* **Retailers** Require a product that can be safely transported and stored under reasonable variations in temperature, humidity, atmospheric pressure, and vibration.
+* **Target group:** Middle-income adults approximately 20–50 years old who have an interest in gardening, meteorology, environmental monitoring, or electronics.
+* **Target purchaser:** Gardening and meteorology enthusiasts or hobbyists who want an affordable way to monitor local environmental conditions.
+* **Customer service:** Responsible for providing users with instructions for setup, operation, troubleshooting, and interpretation of sensor measurements through an instruction manual and instructional video.
+* **Marketing & Sales division:** Responsible for advertising the product to gardening and weather enthusiasts through locations such as botanical gardens, nurseries, garden centers, and online hobbyist communities.
+* **Retailers:** Require a product that can be safely transported and stored under reasonable variations in temperature, humidity, atmospheric pressure, and vibration.
+
 ## Use Cases
 
 ### User Story #1: Janelle
@@ -22,77 +23,78 @@ Janelle is a 42-year-old mother who lives in a mountainous valley outside of Sea
 ### User Story #2: Marcus
 
 Marcus lives in the Valley of the Sun, where extreme heat, low humidity, intense sunlight, and seasonal monsoon storms create rapidly changing weather conditions. As a meteorology enthusiast, Marcus enjoys observing these changes and wants a convenient way to collect environmental measurements around his home. He uses the environmental monitoring device to measure atmospheric pressure, relative humidity, and ambient light throughout the day. By viewing these measurements on the device's display, Marcus can observe how local environmental conditions change as weather systems move through the valley and compare his observations with local weather reports.
-...
 
 ## Aspects
 
 1. **Product Design**
-   * 1.1 The product shall contain sensors capable of measuring pressure, humidity, and ambient light. (P9)
-   * 1.2 The product will be in a completely contained unit to prevent water damage. (P8)
-   * 1.3 The product will have access and replace batteries. (P7)
-   * 1.4 The product shall connect to teammates' subsystems via an 8-wire ribbon cable using a 2x4 IDC header, following the team's shared pinout (5 digital I/O, 2 analog I/O, 1 ground). (P9)
-   * 1.5 The product shall regulate incoming 9V power to stable 5V supple for the microcontroller and sensors. (P10)
+    * 1.1 The product shall contain sensors capable of measuring pressure, humidity, and ambient light. (P9)
+    * 1.2 The product will be in a completely contained unit to prevent water damage. (P8)
+    * 1.3 The product will have accessible and replaceable batteries. (P7)
+    * 1.4 The product shall connect to teammates' subsystems via an 8-wire ribbon cable using a 2x4 IDC header, following the team's shared pinout (5 digital I/O, 2 analog I/O, 1 ground). (P9)
+    * 1.5 The product shall regulate incoming 9V power to a stable 5V supply for the microcontroller and sensors. (P10)
+
 2. **Functionality**
-      * 2.1 The product shall measure relative humidity from 0–100% RH with a target accuracy of ±3% RH. (P10)
-      * 2.2 The product shall measure an atmospheric pressure range of approximately 300–1100 hPa with an accuracy of approximately ±1 hPa (P10)
-      * 2.3 The product shall measure an ambient light measurement range of at least 0–10,000 lux. (P9)
-      * 2.4 Measurements will be updated and displayed at least once every two seconds (P8)
-      * 2.5 The microcontroller shall be capable of receiving and correctly interpreting signals sent by teammates' subsystems over shared ribbon connector. (P8)
-      * 2.6 The microcontroller shall be capable of transmitting correctly formatted signals to teammates' subsystems over shared ribbon connector. (P8)
+    * 2.1 The product shall measure relative humidity from 0–100% RH with a target accuracy of ±3% RH. (P10)
+    * 2.2 The product shall measure an atmospheric pressure range of approximately 300–1100 hPa with an accuracy of approximately ±1 hPa. (P10)
+    * 2.3 The product shall measure an ambient light measurement range of at least 0–10,000 lux. (P9)
+    * 2.4 Measurements will be updated and displayed at least once every two seconds. (P8)
+    * 2.5 The microcontroller shall be capable of receiving and correctly interpreting signals sent by teammates' subsystems over the shared ribbon connector. (P8)
+    * 2.6 The microcontroller shall be capable of transmitting correctly formatted signals to teammates' subsystems over the shared ribbon connector. (P8)
         
 3. **Interactivity & User Experience**
-      * 3.1 The product shall display current humidity, pressure and ambient light readings simultaneously on a single screen, legible in direct sunlight. (P8)
-      * 3.2 The product shall use a display format that is understandable to a non technical enthusiast (P6)
+    * 3.1 The product shall display current humidity, pressure, and ambient light readings simultaneously on a single screen, legible in direct sunlight. (P8)
+    * 3.2 The product shall use a display format that is understandable to a non-technical enthusiast. (P6)
            
 4. **Customization**
-     * 4.1 The product shall be offered with a mounting option suitable for outdoor garden placement (P4)
-     * 4.2 The product shall allow the user to select between metric and imperial display units (P3)
-     * 4.3 The enclosure shall be offered in at least one weather resistant finish suited to prolonged outdoor exposure. (P2)
+    * 4.1 The product shall be offered with a mounting option suitable for outdoor garden placement. (P4)
+    * 4.2 The product shall allow the user to select between metric and imperial display units. (P3)
+    * 4.3 The enclosure shall be offered in at least one weather-resistant finish suited to prolonged outdoor exposure. (P2)
 
 5. **Manufacturing**
-     * 5.1 The PCB shall be producible using standard surface mount assembly processes available to the team. (P9)
-     * 5.2 All components shall be sourced from suppliers with verified availability at time of order to avoid production delays. (P7)
-     * 5.3 The enclosure shall be manufacturable within the courses budget. (P6)
+    * 5.1 The PCB shall be producible using standard surface-mount assembly processes available to the team. (P9)
+    * 5.2 All components shall be sourced from suppliers with verified availability at the time of order to avoid production delays. (P7)
+    * 5.3 The enclosure shall be manufacturable within the course's budget. (P6)
 
-
-  6. **Safety**
-     * 6.1 The product shall limit input current draw to no more than 1.5A to prevent damage to the regulator and connected subsystems. (P10)
-     * 6.2 The products power regulation circuitry shall prevent voltage above 5.5V from reaching the microcontroller or sensors under normal operating conditions. (P10)
-     * 6.3 The product shall not exposure users to sharp edges, pinch points, or exposed conductive traces during normal handling. (P7)
-       
+6. **Safety**
+    * 6.1 The product shall limit input current draw to no more than 1.5A to prevent damage to the regulator and connected subsystems. (P10)
+    * 6.2 The product's power regulation circuitry shall prevent voltages above 5.5V from reaching the microcontroller or sensors under normal operating conditions. (P10)
+    * 6.3 The product shall not expose users to sharp edges, pinch points, or exposed conductive traces during normal handling. (P7)
+         
 ## Requirement Criteria Specifications
+
 1. **Product Design**
-* 1.1 Confirm Via data sheet review that selected sensor ICs cover the required pressure, humidity, and light range
-* 1.2 Apply light water spray to assembled enclosure for 60seconds, visually inspect internals for moisture entrance
-* 1.3 Remove and replace batteries using only fingers
-* 1.4 Compare connector pin assignment against the team block diagram pinout table
-* 1.5 Measure regulator output voltage under no load and full load conditions with a multimeter, confirm output stays within range.
+    * 1.1 Confirm via data sheet review that selected sensor ICs cover the required pressure, humidity, and light ranges.
+    * 1.2 Apply light water spray to the assembled enclosure for 60 seconds; visually inspect internals for moisture entrance.
+    * 1.3 Remove and replace batteries using only fingers.
+    * 1.4 Compare connector pin assignment against the team block diagram pinout table.
+    * 1.5 Measure regulator output voltage under no-load and full-load conditions with a multimeter; confirm output stays within range.
 
 2. **Functionality**
-* 2.1 Check the device's humidity readings against a trusted humidity reader at a few different moisture levels and conifrm error stays within +/- 3%RH
-* 2.2 Compare device pressure readings against known altitude points and confirm error stays within +/- 1hPa.
-* 2.3 Expose light sensor to calibrated light sources from 0–10,000 lux; confirm readings track within acceptable tolerance.
-* 2.4 Use a timer to confirm display refresh interval does not exceed 2 seconds across 10 consecutive cycles.
-* 2.5 Send test signals from a teammate's board on each ribbon pin and confirm correct interpretation.
-* 2.6 Trigger microcontroller to transmit signals on each ribbon pin andd confirm correct format via receiving board
+    * 2.1 Check the device's humidity readings against a trusted humidity reader at a few different moisture levels and confirm error stays within ±3% RH.
+    * 2.2 Compare device pressure readings against known altitude points and confirm error stays within ±1 hPa.
+    * 2.3 Expose light sensor to calibrated light sources from 0–10,000 lux; confirm readings track within acceptable tolerance.
+    * 2.4 Use a timer to confirm display refresh interval does not exceed 2 seconds across 10 consecutive cycles.
+    * 2.5 Send test signals from a teammate's board on each ribbon pin and confirm correct interpretation.
+    * 2.6 Trigger microcontroller to transmit signals on each ribbon pin and confirm correct format via receiving board.
 
-3. **Interactivity and User Design **
+3. **Interactivity & User Experience**
+    * 3.1 View display outdoors in direct sunlight and confirm a test user can read all three values.
+    * 3.2 Have an untrained test user view the display and correctly state each reading without instruction.
 
-* 3.1 View display outdoors in direct sunlight and confirm a test user can read all three values
-* 3.2 Have an untrained test user view the display and correctly state each reading without instruction
+4. **Customization**
+    * 4.1 Confirm mounting hardware is included and physically compatible with the enclosure.
+    * 4.2 Toggle unit setting and confirm all three measurements convert correctly.
+    * 4.3 Apply water spray to coated enclosure and inspect for finish degradation. 
 
-  4. **Customization**
-* 4.1 Confirm mounting hardware is included and physically compatible with the enclosure.
-* 4.2 Toggle unit setting and confirm all three measurements convert correctly
-* 4.3 Apply water spray to coated enclosure and inspect for finish degradation 
-  5. **Manufacturing**
-*5.1 Review PCB design files to confirm all components are compatible with standard surface-mount assembly
-*5.2 Cross-check BOM part numbers against supplier stock at time of order
-*5.3 Total projected enclosure material cost against the defined budget limit
-  6. **Safety**
-*6.1 Apply short-circuit/over-current condition at regulator output and confirm current draw is limited to <1.5A without component damage.
-*6.2 Vary input voltage at the barrel jack and measure voltage at sensor supply pins and confirm it never exceeds 5.5V.
-*6.3 Physically handle the assembled unit and enclosure and check for exposed traces or pinch points.
+5. **Manufacturing**
+    * 5.1 Review PCB design files to confirm all components are compatible with standard surface-mount assembly.
+    * 5.2 Cross-check BOM part numbers against supplier stock at time of order.
+    * 5.3 Total projected enclosure material cost against the defined budget limit.
+
+6. **Safety**
+    * 6.1 Apply short-circuit/over-current condition at regulator output and confirm current draw is limited to <1.5A without component damage.
+    * 6.2 Vary input voltage at the barrel jack, measure voltage at sensor supply pins, and confirm it never exceeds 5.5V.
+    * 6.3 Physically handle the assembled unit and enclosure and check for exposed traces or pinch points.
   
 ## Open Questions
 
