@@ -32,30 +32,35 @@ The new product design will be based on that of the AirPods with improvements ba
    * 1.1 The product shall contain sensors capable of measuring pressure, humidity, and ambient light.
    * 1.2 The product will be in a completely contained unit to prevent water damage.
    * 1.3 The product will have access and replace batteries.
-  
+   * 1.4 The product shall connect to teammates' subsystems via an 8-wire ribbon cable using a 2x4 IDC header, following the team's shared pinout (5 digital I/O, 2 analog I/O, 1 ground). (P9)
+   * 1.5 The product shall regulate incoming 9V power to stable 5V supple for the microcontroller and sensors. (P10)
 2. **Functionality**
       * 2.1 The product shall measure relative humidity from 0–100% RH with a target accuracy of ±3% RH. (P10)
       * 2.2 The product shall measure an atmospheric pressure range of approximately 300–1100 hPa with an accuracy of approximately ±1 hPa
       * 2.3 The product shall measure an ambient light measurement range of at least 0–10,000 lux.
       * 2.4 Measurements will be updated and displayed at least once every two seconds
+      * 2.5 The microcontroller shall be capable of receiving and correctly interpreting signals sent by teammates' subsystems over shared ribbon connector. (P8)
+      * 2.6 The microcontroller shall be capable of transmitting correctly formatted signals to teammates' subsystems over shared ribbon connector. (P8)
         
 3. **Interactivity & User Experience**
-      * 3.1
-      * 3.2
+      * 3.1 The product shall display current humidity, pressure and ambient light readings simultaneously on a single screen, legible in direct sunlight. (P8)
+      * 3.2 The product shall use a display format that is understandable to a non technical enthusiast (P6)
            
 4. **Customization**
-     * 4.1
-     * 4.2
-     * 4.3
+     * 4.1 The product shall be offered with a mounting option suitable for outdoor garden placement (P4)
+     * 4.2 The product shall allow the user to select between metric and imperial display units (P3)
+     * 4.3 The enclosure shall be offered in at least one weather resistant finish suited to prolonged outdoor exposure. (P2)
 
-5. **Customization**
-     * 5.1
-     * 5.2
-     * 5.3
+5. **Manufacturing**
+     * 5.1 The PCB shall be productible using standard surface mount assembly processes available to the team. (P9)
+     * 5.2 All components shall be sourced from suppliers with verified availability at time of order to avoid production delays. (P7)
+     * 5.3 The enclosure shall be manufacturable within the courses budget. (P6)
+
 
   6. **Safety**
-     * 6.1
-     * 6.2
+     * 6.1 The product shall limit input current draw to no more than 1.5A to prevent damage to the regulator and connected subsystems. (P10)
+     * 6.2 The products power regulation circuitry shall prevent voltage above 5.5V from reaching the microcontroller or sensors under normal operating conditions. (P10)
+     * 6.3 The product shall not exposure users to sharp edges, pinch points, or exposed conductive traces during normal handling. (P7)
        
 ## Requirement Criteria Specifications
 
