@@ -26,8 +26,6 @@ Marcus lives in the Valley of the Sun, where extreme heat, low humidity, intense
 
 ## Aspects
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
-
 1. **Product Design**
    * 1.1 The product shall contain sensors capable of measuring pressure, humidity, and ambient light. (P9)
    * 1.2 The product will be in a completely contained unit to prevent water damage. (P8)
@@ -64,37 +62,37 @@ The new product design will be based on that of the AirPods with improvements ba
        
 ## Requirement Criteria Specifications
 1. **Product Design**
-* 1.1.1 Confirm Via data sheet review that selected sensor ICs cover the required pressure, humidity, and light range
-* 1.2.1 Apply light water spray to assembled enclosure for 60seconds, visually inspect internals for moisture entrance
-* 1.3.1 Remove and replace batteries using only fingers
-* 1.4.1 Compare connector pin assignment against the team block diagram pinout table
-* 1.5.1 Measure regulator output voltage under no load and full load conditions with a multimeter, confirm output stays within range.
+* 1.1 Confirm Via data sheet review that selected sensor ICs cover the required pressure, humidity, and light range
+* 1.2 Apply light water spray to assembled enclosure for 60seconds, visually inspect internals for moisture entrance
+* 1.3 Remove and replace batteries using only fingers
+* 1.4 Compare connector pin assignment against the team block diagram pinout table
+* 1.5 Measure regulator output voltage under no load and full load conditions with a multimeter, confirm output stays within range.
 
 2. **Functionality**
-* 2.1.1 Check the device's humidity readings against a trusted humidity reader at a few different moisture levels and conifrm error stays within +/- 3%RH
-* 2.2.1 Compare device pressure readings against known altitude points and confirm error stays within +/- 1hPa.
-* 2.3.1 Expose light sensor to calibrated light sources from 0–10,000 lux; confirm readings track within acceptable tolerance.
-* 2.4.1 Use a timer to confirm display refresh interval does not exceed 2 seconds across 10 consecutive cycles.
-* 2.5.1 Send test signals from a teammate's board on each ribbon pin and confirm correct interpretation.
-* 2.6.1 Trigger microcontroller to transmit signals on each ribbon pin andd confirm correct format via receiving board
+* 2.1 Check the device's humidity readings against a trusted humidity reader at a few different moisture levels and conifrm error stays within +/- 3%RH
+* 2.2 Compare device pressure readings against known altitude points and confirm error stays within +/- 1hPa.
+* 2.3 Expose light sensor to calibrated light sources from 0–10,000 lux; confirm readings track within acceptable tolerance.
+* 2.4 Use a timer to confirm display refresh interval does not exceed 2 seconds across 10 consecutive cycles.
+* 2.5 Send test signals from a teammate's board on each ribbon pin and confirm correct interpretation.
+* 2.6 Trigger microcontroller to transmit signals on each ribbon pin andd confirm correct format via receiving board
 
 3. **Interactivity and User Design **
 
-* 3.1.1 View display outdoors in direct sunlight and confirm a test user can read all three values
-* 3.2.1 Have an untrained test user view the display and correctly state each reading without instruction
+* 3.1 View display outdoors in direct sunlight and confirm a test user can read all three values
+* 3.2 Have an untrained test user view the display and correctly state each reading without instruction
 
   4. **Customization**
-* 4.1.1 Confirm mounting hardware is included and physically compatible with the enclosure.
-* 4.2.1 Toggle unit setting and confirm all three measurements convert correctly
-* 4.3.1 Apply water spray to coated enclosure and inspect for finish degradation 
+* 4.1 Confirm mounting hardware is included and physically compatible with the enclosure.
+* 4.2 Toggle unit setting and confirm all three measurements convert correctly
+* 4.3 Apply water spray to coated enclosure and inspect for finish degradation 
   5. **Manufacturing**
-*5.1.1 Review PCB design files to confirm all components are compatible with standard surface-mount assembly
-*5.2.1 Cross-check BOM part numbers against supplier stock at time of order
-*5.3.1 Total projected enclosure material cost against the defined budget limit
+*5.1 Review PCB design files to confirm all components are compatible with standard surface-mount assembly
+*5.2 Cross-check BOM part numbers against supplier stock at time of order
+*5.3 Total projected enclosure material cost against the defined budget limit
   6. **Safety**
-*6.1.1 Apply short-circuit/over-current condition at regulator output and confirm current draw is limited to <1.5A without component damage.
-*6.2.1 Vary input voltage at the barrel jack and measure voltage at sensor supply pins and confirm it never exceeds 5.5V.
-*6.3.1 Physically handle the assembled unit and enclosure and check for exposed traces or pinch points.
+*6.1 Apply short-circuit/over-current condition at regulator output and confirm current draw is limited to <1.5A without component damage.
+*6.2 Vary input voltage at the barrel jack and measure voltage at sensor supply pins and confirm it never exceeds 5.5V.
+*6.3 Physically handle the assembled unit and enclosure and check for exposed traces or pinch points.
   
 ## Open Questions
 
