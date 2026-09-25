@@ -127,14 +127,14 @@ title: User Needs and Benchmarking
 
 ### Grouped with categories
 
-#### 1. Sensing & Thermal Accuracy
+#### 1. Sensing Accuracy
 * The sensors maintain consistent measurement accuracy over time.
 * Outdoor sensor arrays deliver high-accuracy telemetry for ambient relative humidity and barometric pressure.
 * Enclosures deploy effective thermal shielding and aspirating airflow to prevent direct solar radiation bias.
 * Sensor heads maintain measurement tolerance standards over multi-year outdoor deployments.
 * The system allows manual calibration offset adjustments for barometric pressure.
 
-#### 2. Wireless Communications & RF Architecture
+#### 2. Wired Communications & Signal Architecture
 * Wireless subsystems operate across matching regional frequency bands.
 * The wireless link maintains continuous connection with the base station.
 * Wireless operating frequencies are clearly identified across system documentation and packaging.
@@ -150,13 +150,7 @@ title: User Needs and Benchmarking
 * Setup materials utilize visual media to guide assembly and configuration.
 * Out-of-box user onboarding is straightforward for non-technical users.
 
-#### 4. Software & Cloud Integration
-* The mobile application provides a robust and feature-rich user interface.
-* The system transmits all local sensor parameters (including barometric pressure) to third-party weather services.
-* Product documentation explicitly lists data field limitations for third-party integrations prior to purchase.
-* Product marketing listings accurately reflect the exact software ecosystem and app architecture used.
-
-#### 5. Mechanical Enclosure & System Durability
+#### 4. Mechanical Enclosure & System Durability
 * The structural housing utilizes durable materials that exceed standard price-tier expectations.
 * Product engineering practices ensure reliable long-term mechanical and electrical build quality.
 * Internal components resist signal degradation and measurement drift during extended deployment.
@@ -194,7 +188,7 @@ title: User Needs and Benchmarking
 
 | Need ID | Meta-Category | Restated User Need | Type | Importance |
 | :--- | :--- | :--- | :--- | :--- |
-| **N01** | Sensing | Outdoor array samples ambient temperature, humidity, wind speed, direction, rain, UV, and light intensity. | Explicit | High |
+| **N01** | Sensing | Outdoor array samples ambient humidity, light intensity and pressure. | Explicit | High |
 | **N02** | Sensing | Thermal enclosure deploys aspirating airflow shielding to prevent direct solar radiation heat distortion. | Latent | High |
 | **N03** | Sensing | ADC sampling and firmware filtering eliminate coarse measurement quantization jumps. | Latent | High |
 | **N04** | Sensing | Base station allows user manual calibration offset adjustments for barometric pressure. | Explicit | Medium |
