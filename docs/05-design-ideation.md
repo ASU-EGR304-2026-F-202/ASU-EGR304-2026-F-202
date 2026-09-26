@@ -29,9 +29,7 @@ Wireless communication, solar charging, touchscreens, mobile applications, and c
 
 ## 2. Initial Brainstorm Capture
 
-The team generated 100 feature ideas. The image below preserves the initial capture before the features were reorganized into ranked groups and product concepts.
-
-![Initial brainstorm capture showing the original 100 ideas](ideation-assets/brainstorm-initial-capture.jpg)
+The team generated 100 feature ideas. 
 
 ### Complete Brainstorm, Grouped and Ranked
 
