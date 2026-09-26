@@ -12,7 +12,7 @@ The primary audience is a person who needs quick, local environmental readings i
 
 ## 1. Prioritization Method
 
-The brainstorm was based on the team's **User Needs and Benchmarking** and **Product Requirements** assignments. Requirements with priority scores from **P8 through P10** received the most attention because they represent the device's primary functions and the greatest integration risks.
+The brainstorm was based on the team's User Needs and Benchmarking and Product Requirements assignments. Requirements with priority scores from P8 through P10 received the most attention because they represent the device's primary functions and the greatest integration risks.
 
 The team prioritized:
 
@@ -29,13 +29,13 @@ Wireless communication, solar charging, touchscreens, mobile applications, and c
 
 ## 2. Initial Brainstorm Capture
 
-The team generated **100 feature ideas**. The image below preserves the initial capture before the features were reorganized into ranked groups and product concepts.
+The team generated 100 feature ideas. The image below preserves the initial capture before the features were reorganized into ranked groups and product concepts.
 
 ![Initial brainstorm capture showing the original 100 ideas](ideation-assets/brainstorm-initial-capture.jpg)
 
 ### Complete Brainstorm, Grouped and Ranked
 
-Within each group, **Rank 1** is the team's highest-ranked feature, followed by **Rank 2** and **Rank 3**. The remaining two ideas were retained as alternatives rather than discarded.
+Within each group, Rank 1 is the team's highest-ranked feature, followed by Rank 2 and Rank 3. The remaining two ideas were retained as alternatives rather than discarded.
 
 | No. | Requirement / need | Rank | Feature | Detail |
 |---:|---|:---:|---|---|
@@ -227,7 +227,7 @@ This concept emphasizes measurement isolation and serviceability. Each sensor si
 
 ## 5. Ideation Process
 
-On **September 24, 2026**, Group 202 met virtually using FaceTime. The full team - **Branden, Sidra, Brendan, and Zander** - participated. The group unanimously selected Google Docs as the shared tool for collecting and organizing ideas.
+On September 24, 2026, Group 202 met virtually using FaceTime. The full team - Branden, Sidra, Brendan, and Zander - participated. The group unanimously selected Google Docs as the shared tool for collecting and organizing ideas.
 
 The session began with a review of the team's earlier User Needs and Benchmarking and Product Requirements work. The team used the stated priorities, the rankings from those assignments, and the frequency of user-review comments to decide where to spend the most brainstorming effort. Because accurate sensing, display readability, power regulation, subsystem communication, and basic outdoor protection were the highest-priority areas, the team generated the greatest number of alternatives around those functions. More complex additions were preserved as possibilities but were not allowed to distract from the core requirements.
 
