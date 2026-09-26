@@ -146,11 +146,6 @@ The team first sorted the ideas by function. This produced 20 groups: sensing ar
 
 Each teammate highlighted preferred ideas in an individual color. The team then discussed the alternatives one at a time and reached a unanimous ranking. The first three ideas shown in each group above are the ranked selections; lower-ranked ideas remain available for later design revisions.
 
-The discussion also generated a new refinement:
-
-| New idea | Origin | Purpose |
-|---|---|---|
-| **101. Mesh filter behind the vents** | Added while combining weather-protection and airflow ideas | Prevent debris from entering without blocking the humidity and pressure sensors. |
 
 ### Ranked Shortlist
 
