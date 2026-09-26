@@ -6,9 +6,9 @@ title: Ideation and Concept Generation
 
 ## Project Goal and Audience
 
-The goal of this project is to develop a compact environmental-monitoring device that measures relative humidity, atmospheric pressure, and ambient light, then displays those readings clearly to the user. The device must also exchange signals safely with the team's other subsystems, operate from a regulated power source, and protect its electronics during outdoor use.
+The goal of this project is to develop a compact environmental monitoring device that measures relative humidity, atmospheric pressure, and ambient light, then displays those readings clearly to the user. The device must also exchange signals safely with the team's other subsystems, operate from a regulated power source, and protect its electronics during outdoor use.
 
-The primary audience is a person who needs quick, local environmental readings in an outdoor or semi-outdoor setting. The design must therefore be readable, weather-resistant, easy to mount, and simple to maintain. A secondary audience is the project team, which must assemble, test, integrate, and troubleshoot the device.
+The primary audience is a person who needs quick, local environmental readings in an outdoor or semi outdoor setting. The design must therefore be readable, weather resistant, easy to mount, and simple to maintain. A secondary audience is the project team, which must assemble, test, integrate, and troubleshoot the device.
 
 ## 1. Prioritization Method
 
@@ -18,7 +18,7 @@ The team prioritized:
 
 1. Accurate humidity, pressure, and light measurements
 2. A simple, readable display
-3. Reliable 9 V-to-5 V power regulation
+3. Reliable 9 V to 5 V power regulation
 4. Safe communication with teammates' subsystems
 5. Basic protection from water and outdoor conditions
 6. Replaceable batteries and accessible components
@@ -195,7 +195,7 @@ This concept emphasizes a polished, weather-resistant outdoor unit. A clear top 
 
 ![Annotated modular ventilated enclosure concept](ideation-assets/concept-branden-modular-enclosure.png)
 
-This concept emphasizes modular construction and flexible installation. Its two-piece 3D-printed enclosure separates the vented sensor region from the angled LCD interface. Large rear holes support wall mounting, while the removable top simplifies access during assembly and testing.
+This concept emphasizes modular construction and flexible installation. Its two piece 3D printed enclosure separates the vented sensor region from the angled LCD interface. Large rear holes support wall mounting, while the removable top simplifies access during assembly and testing.
 
 | Design area | Selected brainstorm features | How the selection satisfies needs |
 |---|---|---|
@@ -210,7 +210,7 @@ This concept emphasizes modular construction and flexible installation. Its two-
 
 ![CAD concept with isolated sensor chambers](ideation-assets/concept-zander-isolated-chambers.png)
 
-This concept emphasizes measurement isolation and serviceability. Each sensor sits in its own chamber to reduce interference. The humidity and pressure chambers use turned-down vents, and the light sensor receives a dedicated window. The front includes an LCD bezel; the enclosure also includes countersunk lid holes, threaded PCB inserts, and separate wall-mounting holes.
+This concept emphasizes measurement isolation and serviceability. Each sensor sits in its own chamber to reduce interference. The humidity and pressure chambers use turned down vents, and the light sensor receives a dedicated window. The front includes an LCD bezel; the enclosure also includes countersunk lid holes, threaded PCB inserts, and separate wall mounting holes.
 
 | Design area | Selected brainstorm features | How the selection satisfies needs |
 |---|---|---|
@@ -222,13 +222,13 @@ This concept emphasizes measurement isolation and serviceability. Each sensor si
 
 ## 5. Ideation Process
 
-On September 24, 2026, Group 202 met virtually using FaceTime. The full team - Branden, Sidra, Brendan, and Zander - participated. The group unanimously selected Google Docs as the shared tool for collecting and organizing ideas.
+On September 24, 2026, Group 202 met virtually using FaceTime. The full team participated. The group unanimously selected Google Docs as the shared tool for collecting and organizing ideas.
 
-The session began with a review of the team's earlier User Needs and Benchmarking and Product Requirements work. The team used the stated priorities, the rankings from those assignments, and the frequency of user-review comments to decide where to spend the most brainstorming effort. Because accurate sensing, display readability, power regulation, subsystem communication, and basic outdoor protection were the highest-priority areas, the team generated the greatest number of alternatives around those functions. More complex additions were preserved as possibilities but were not allowed to distract from the core requirements.
+The session began with a review of the team's earlier User Needs and Benchmarking and Product Requirements work. The team used the stated priorities, the rankings from those assignments, and the frequency of user review comments to decide where to spend the most brainstorming effort. Because accurate sensing, display readability, power regulation, subsystem communication, and basic outdoor protection were the highest-priority areas, the team generated the greatest number of alternatives around those functions. More complex additions were preserved as possibilities but were not allowed to distract from the core requirements.
 
 Next, the team discussed possible categories and agreed on functional groupings. Ideas were recorded without criticism so that conventional, unconventional, and incremental options could all be captured. For example, the need to measure light produced ideas involving sensor selection, automatic ranging, optical windows, diffusers, warnings, and display behavior. The need to communicate with other PCBs produced alternatives involving analog inputs, digital inputs, UART, message formats, checksums, and data-ready signals.
 
 After the initial 100 ideas were recorded, the team reorganized them by intended function. No ideas were deleted. Each participant independently highlighted preferred features in a different color. The team then reviewed the ideas one at a time; each person explained the reasoning behind their choices, and the group discussed feasibility, importance, cost, testability, and compatibility with the required system. The group reached a unanimous decision on the top three ideas in each category. This discussion also led to refinements, including a mesh filter behind the ventilation openings to keep debris out while maintaining airflow.
 
-Finally, the team recombined the strongest features into three different full-device concepts. Brendan's concept prioritizes a polished outdoor wall/pole mount with strong weather protection and a clear user interface. Branden's concept prioritizes modular construction, a compact battery system, and flexible wall installation. Zander's concept prioritizes isolated sensor chambers, threaded PCB mounting points, and a clearly annotated CAD enclosure. Comparing these alternatives makes the tradeoffs visible without discarding features that may be useful during later development.
+Finally, the team recombined the strongest features into three different fulldevice concepts. Brendan's concept prioritizes a polished outdoor wall/pole mount with strong weather protection and a clear user interface. Branden's concept prioritizes modular construction, a compact battery system, and flexible wall installation. Zander's concept prioritizes isolated sensor chambers, threaded PCB mounting points, and a clearly annotated CAD enclosure. Comparing these alternatives makes the tradeoffs visible without discarding features that may be useful during later development.
 
