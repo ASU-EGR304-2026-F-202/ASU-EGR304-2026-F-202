@@ -176,7 +176,7 @@ The ranked features were recombined into three distinct product concepts. Featur
 
 ### Concept A: Outdoor Wall/Pole Mount 
 
-![Annotated outdoor wall and pole mount concept](ideation-assets/concept-brendan-outdoor-mount.png)
+![](Brendanmodel.png)
 
 This concept emphasizes a polished, weather-resistant outdoor unit. A clear top panel lets ambient light reach the lux sensor, while downward-facing louvers expose the humidity and pressure sensors to airflow without direct rain entry. A hooded LCD presents all three measurements. A large mounting base supports wall, rail, or pole installation, and the rear contains a screw-mounted AA battery door and a power switch.
 
@@ -191,7 +191,7 @@ This concept emphasizes a polished, weather-resistant outdoor unit. A clear top 
 
 ### Concept B: Modular Ventilated Enclosure 
 
-![Annotated modular ventilated enclosure concept](ideation-assets/concept-branden-modular-enclosure.png)
+![](image/Branden.png)
 
 This concept emphasizes modular construction and flexible installation. Its two piece 3D printed enclosure separates the vented sensor region from the angled LCD interface. Large rear holes support wall mounting, while the removable top simplifies access during assembly and testing.
 
@@ -206,7 +206,7 @@ This concept emphasizes modular construction and flexible installation. Its two 
 
 ### Concept C: Isolated Sensor-Chamber CAD Enclosure 
 
-![CAD concept with isolated sensor chambers](ideation-assets/concept-zander-isolated-chambers.png)
+![](image/Zander-Cad-Vector.pdf)
 
 This concept emphasizes measurement isolation and serviceability. Each sensor sits in its own chamber to reduce interference. The humidity and pressure chambers use turned down vents, and the light sensor receives a dedicated window. The front includes an LCD bezel; the enclosure also includes countersunk lid holes, threaded PCB inserts, and separate wall mounting holes.
 
