@@ -206,7 +206,7 @@ This concept emphasizes modular construction and flexible installation. Its two 
 
 ### Concept C: Isolated Sensor-Chamber CAD Enclosure 
 
-![](image/Zander-Cad-Vector.pdf)
+![](image/Zander.png)
 
 This concept emphasizes measurement isolation and serviceability. Each sensor sits in its own chamber to reduce interference. The humidity and pressure chambers use turned down vents, and the light sensor receives a dedicated window. The front includes an LCD bezel; the enclosure also includes countersunk lid holes, threaded PCB inserts, and separate wall mounting holes.
 
