@@ -7,6 +7,7 @@ nav:
   - Team Organization: 02-Team-Organization.md
   - User Needs and Benchmarking: 03-User-Needs-and Benchmarking.md
   - Product Requirements: 04-Product-Requirements.md
+  - Design Ideation: 05-design-ideation.md
   - Appendix:
       - Team Organization: Appendix/App-Team-Org.md
 theme:
