@@ -176,7 +176,7 @@ The ranked features were recombined into three distinct product concepts. Featur
 
 ### Concept A: Outdoor Wall/Pole Mount 
 
-![](Brendanmodel.png)
+![](image/Brendanmodel.png)
 
 This concept emphasizes a polished, weather-resistant outdoor unit. A clear top panel lets ambient light reach the lux sensor, while downward-facing louvers expose the humidity and pressure sensors to airflow without direct rain entry. A hooded LCD presents all three measurements. A large mounting base supports wall, rail, or pole installation, and the rear contains a screw-mounted AA battery door and a power switch.
 
