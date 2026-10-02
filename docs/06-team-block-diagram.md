@@ -16,7 +16,8 @@ _Italic Text_
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)  
+![image caption]<img width="1275" height="805" alt="image" src="https://github.com/user-attachments/assets/fe30c96a-b911-4ddb-af21-f65f0ef3ddaa" />
+  
 **Figure 2:** Here is a picture of an image linked on the internet
 
 
