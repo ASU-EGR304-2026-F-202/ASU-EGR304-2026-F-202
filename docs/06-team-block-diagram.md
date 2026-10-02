@@ -38,7 +38,7 @@ _Italic Text_
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+https://app.diagrams.net/#G1lyQ4C4nyHDCJUPz_ph8rKjfSMBdjqFMQ#%7B%22pageId%22%3A%22WJmDWHTpGd9X_h7mQFZD%22%7D 
 
 
 ## Results
@@ -51,7 +51,7 @@ _Italic Text_
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+https://app.diagrams.net/#G1lyQ4C4nyHDCJUPz_ph8rKjfSMBdjqFMQ#%7B%22pageId%22%3A%22WJmDWHTpGd9X_h7mQFZD%22%7D
 
 
 ## References
