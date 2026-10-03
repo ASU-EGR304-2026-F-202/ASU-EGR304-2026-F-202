@@ -16,7 +16,8 @@ _Italic Text_
 
 ## Images
 
-![image caption]<img width="1275" height="805" alt="image" src="https://github.com/user-attachments/assets/fe30c96a-b911-4ddb-af21-f65f0ef3ddaa" />
+![image caption]<img width="1275" height="814" alt="image" src="https://github.com/user-attachments/assets/df0e8268-876a-49ed-a460-c1311ab9f33e" />
+
   
 **Figure 2:** Here is a picture of an image linked on the internet
 
