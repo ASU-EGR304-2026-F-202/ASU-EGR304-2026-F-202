@@ -4,7 +4,7 @@ title: Product Requirements
 
 ## Project Objective
 
-This project aims to design and develop a compact environmental monitoring device capable of measuring and displaying atmospheric pressure, relative humidity, and ambient light levels in real time. The system will integrate multiple environmental sensors, a microcontroller, and a display onto a custom PCB to provide users with clear and easily accessible environmental measurements. The device will target a relative humidity measurement range of 0–100% RH with an accuracy of approximately ±3% RH, an atmospheric pressure range of approximately 300–1100 hPa with an accuracy of approximately ±1 hPa, and an ambient light measurement range of at least 0–10,000 lux. Measurements will be updated and displayed at least once every two seconds. The product will prioritize reliable sensor operation, measurement accuracy, readability, compact size, and ease of use. Components will be selected based on cost, availability, power requirements, and compatibility with the PCB design. The primary goal is to successfully integrate the sensors, microcontroller, power circuitry, and display into a functional PCB-based prototype.
+This project aims to design and develop a compact environmental monitoring device capable of measuring and displaying atmospheric pressure, relative humidity, and ambient light levels in real time. The system will integrate multiple environmental sensors, a microcontroller, and a display onto a PCB to provide users with clear and easily accessible environmental measurements. The device will target a relative humidity measurement range of 0–100% RH with an accuracy of approximately ±3% RH, an atmospheric pressure range of approximately 300–1100 hPa with an accuracy of approximately ±5% hPa, and an ambient light measurement range of at least 0–10,000 lux. Measurements will be updated and displayed at least once every two seconds. The product will prioritize reliable sensor operation, measurement accuracy, readability, compact size, and ease of use. Components will be selected based on cost, availability, power requirements, and compatibility with the PCB design. The primary goal is to successfully integrate the sensors, microcontroller, power circuitry, and display into a functional PCB-based prototype.
 
 ## Stakeholders
 
@@ -35,7 +35,7 @@ Marcus lives in the Valley of the Sun, where extreme heat, low humidity, intense
 
 2. **Functionality**
     * 2.1 The product shall measure relative humidity from 0–100% RH with a target accuracy of ±3% RH. (P10)
-    * 2.2 The product shall measure an atmospheric pressure range of approximately 300–1100 hPa with an accuracy of approximately ±1 hPa. (P10)
+    * 2.2 The product shall measure an atmospheric pressure range of approximately 300–1100 hPa with an accuracy of approximately ±5% hPa. (P10)
     * 2.3 The product shall measure an ambient light measurement range of at least 0–10,000 lux. (P9)
     * 2.4 Measurements will be updated and displayed at least once every two seconds. (P8)
     * 2.5 The microcontroller shall be capable of receiving and correctly interpreting signals sent by teammates' subsystems over the shared ribbon connector. (P8)
