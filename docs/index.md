@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Embedded System Design<br>
 <font size="5">Team 202<br> 
-**Submission: month, DD, YYYY**<br>
+**Submission: October, 26, 2026**<br>
 Fall 2026 <br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
@@ -17,10 +17,7 @@ Professor Nichols<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
-
+> This team consists of engineers who have an interest in creating solutions to existing problems. We have Zander Boward, who currently runs many of the fabrication machines for ASU, Brendan Laskowski who was a radio technician in the marine corps, Branden Cluff..., and Sidra Elsaady...
 
 ## Team Members Datasheet links
 
