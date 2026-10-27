@@ -17,7 +17,7 @@ Professor Nichols<br>
 </center>
 
 ## Team Introduction
-> This team consists of engineers who have an interest in creating solutions to existing problems. We have Zander Boward, who currently runs many of the fabrication machines for ASU, Brendan Laskowski who was a radio technician in the marine corps, Branden Cluff..., and Sidra Elsaady...
+> This team consists of engineers who have an interest in creating solutions to existing problems. We have Zander Boward, who currently runs many of the fabrication machines for ASU, Brendan Laskowski who was a radio technician in the marine corps, Branden Cluff who has designed and debugged electrical systems, and Sidra Elsaady...
 
 ## Team Members Datasheet links
 
