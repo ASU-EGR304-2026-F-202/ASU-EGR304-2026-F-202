@@ -13,7 +13,8 @@ Our design idea was to have three separate sensor PCB's each transmit a through 
 
 ## Images
 
-![Team Block Diagram]!<img width="2542" height="1695" alt="image" src="https://github.com/user-attachments/assets/f9dee9a4-12b8-42a2-8241-21f1f6bd7167" />
+Team Block Diagram<img width="2550" height="1722" alt="image" src="https://github.com/user-attachments/assets/8f5a407c-f3a1-41f6-b56a-b26be2ab0def" />
+
 
 
 ## Conclusion
